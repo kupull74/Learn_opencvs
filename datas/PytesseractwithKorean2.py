@@ -6,14 +6,22 @@ import matplotlib.pyplot as plt
 
 
 try:
-    img = cv.imread('datas/images/test1/receipt_kor.jpg', cv.IMREAD_GRAYSCALE)
+    img = cv.imread('datas/images/test1/ko11.png', cv.IMREAD_GRAYSCALE)
     ret,thresh1 = cv.threshold(img,100,255,cv.THRESH_BINARY)
 
     titles = ['Original Image','BINARY']
     images = [img, thresh1]
+    for i in range(6):
+        plt.subplot(2,3,i+1);
+        plt.imshow(images[i],'gray',vmin=0,vmax=255)
+        plt.title(titles[i])
+        plt.xticks([]),plt.yticks([])
 
-    def threshholding(images):
-        return cv.threshhold(images, 50, 255, cv.THERSH_BINARY+cv.THRESH_OPSU)[1]
+    plt.show()
+    cv.waitKey(0)
+    
+    def threshholding(image):
+        return cv.threshhold(image, 50, 255, cv.THERSH_BINARY+cv.THRESH_OPSU)[1]
 
 
         img_gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
@@ -30,7 +38,7 @@ try:
     print(words.keys())
     n_boxes = len(words['text'])
     for i in range(n_boxes):
-        if int(words['conf'][i]) > 30:
+        if int(words['conf'][i]) > 40:
             (x,y,w,h) = (words['left'][i], words['top'][i], words['width'][i], words['height'][i])
             img = cv.rectangle(img, (x,y), (x+w, y+h), (0,255,0),2)
             cv.imshow('Resource', img)
