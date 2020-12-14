@@ -1,7 +1,7 @@
 from cv2 import cv2 as cv
 
 try:
-    img = cv.imread("datas/images/21.jpg")
+    img = cv.imread("datas/images/.jpg")
 
     imgGray = cv.cvtColor(img,cv.COLOR_BGR2GRAY)
     cv.imshow("Gray Image",imgGray)
