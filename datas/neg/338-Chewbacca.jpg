@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+        <head>
+                <title>www.wendys.com.au - Domain parked by Asia Registry</title>
+                <meta name="description" content="Asia Registry is your Asia wide domain name registrar providing complete coveragage of Asian ccTLD domain names including .cn .jp .au .nz .my .id .in .hk .sg and more." />
+                <meta name="keywords" content="domain names, asia, asian,.asia domain,domainnames, eurid, ccTLD, gTLD, domaining, .asia, .cn, .jp, .in, .hk, .sg, com.au, co.nz, au domains, nz domains, enum, enum registration, web hosting, domain name, web site, web design, domain name registration, corporate domain name management, small business, cheap web hosting, webmaster, web site builder, web space, affordable web hosting, marketing, advertising, blog, blogs, blogger, weblog, web log, weblogs, web logs, internet marketing, internet advertising" />
+                <script type="text/JavaScript" src="jquery.min.js"></script>
+                <style>
+                        *{margin:0 auto;padding:0}
+                        html, body {height:100%;width:100%;overflow:hidden; font-family: Verdana, Arial, sans-serif;}
+                        table {height:100%;width:100%;table-layout:static;border-collapse:collapse}
+                        iframe {height:100%;width:100%}
+                        img { border: none; }
+                        .header {border-bottom:0px solid #000; text-align:center;};
+                        .content {height:100%}
+                        .logo {padding:10px}
+                        .Art .header, .StoreART .header { background: #000; }
+                        .Art h2, .StoreART h2 { color: #fff; }
+                </style>
+        </head>
+        <body class="Asia Registry">
+                <table style="position:absolute;top:0;left:0;right:0;bottom:0">
+                        <tr>
+                                <td class="header">
+                                        <table>
+                                                <tr class="header">
+                                                        <td>
+                                                                <div style="display:block;width:1000px;">
+                                                                <span style="width:500px;display:table-cell">
+                                                                        <a href="http://www.asiaregistry.com/?utm_medium=free_parking&utm_source=wendys.com.au" ><img src="img/asia.png" alt="Asia Registry" class="logo"/></a>
+                                                                </span>
+                                                                <span style="vertical-align:middle;width:500px;display:table-cell">
+                                                                        <h2>Domain Parked with Asia Registry</h2>
+                                                                </span>
+                                                                </div>
+                                                        </td>
+                                                </tr>
+                                        </table>
+                                </td>
+                        </tr>
+                        <tr style="height:100%">
+                                <td class="content" style="text-align:center">
+                                        <span style="font-family: Arial,Helvetica Neue,Helvetica,sans-serif;font-weight:bold;text-align:center;display:block">
+                                                You will be redirected to Asia Registry in <span id="timer">10</span> seconds
+                                        </span>
+                                        <span style="font-family:Arial,Helvetica Neue,Helvetica,sans-serif;text-align:center;font-size:small">
+                                                Please click <a href="http://www.asiaregistry.com/?utm_medium=free_parking&utm_source=wendys.com.au">here</a> if you are not redirected
+                                        </span>
+                                        <script>
+                                                var targetURL="index.php?action=redir&domain=www.wendys.com.au";
+                                                var timeout = 10;
+                                                function redir() {
+                                                        timeout--;
+                                                        $('#timer').html(timeout);
+                                                        if(timeout < 1) {
+                                                                window.location=targetURL;
+                                                                return;
+                                                        }
+                                                        setTimeout("redir()",1000);
+                                                }
+                                                redir();
+                                        </script>
+                                </td>
+                        </tr>
+                </table>
+        </body>
+</html>
+

@@ -1,0 +1,486 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru-ru" lang="ru-ru" >
+<head>
+<!-- <script type="text/javascript" src="/templates/lucky_eve/js/def.cont.js"></script> -->
+  <base href="https://www.lucky.net/ru/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="" />
+  <meta name="description" content="Lucky.Net? ? ведущий всеукраинский интернет провайдер и оператор связи. Тел.: (044) 205 44 55. Высокоскоростной безлимитный Интернет, надежные сервера, цифровая и IP-телефония. Подключение к интернету в Киеве - Lucky.Net?." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Интернет провайдер - Киев, безлимитный интернет, подключение к интернету, высокоскоростной интернет в Киеве - Lucky.Net?</title>
+  <link href="/templates/lucky_eve/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="/components/com_rsform/assets/calendar/calendar.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_rsform/assets/css/front.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_ariextmenu/mod_ariextmenu/js/css/menu.min.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_ariextmenu/mod_ariextmenu/js/css/menu.fix.css" type="text/css" />
+  <style type="text/css">
+    <!--
+UL#ariext132 LI A{font-size:15px;font-weight:bolder;text-transform:capitalize;text-align:center;}UL#ariext132 LI A{color:#ffffff;}UL#ariext132 LI UL.ux-menu-sub A{font-size:11px;font-weight:normal;text-transform:none;text-align:left;}UL#ariext132 LI UL.ux-menu-sub A{color:#000000;}UL#ariext132 LI UL.ux-menu-sub A:hover,UL#ariext132 LI UL.ux-menu-sub A:focus,UL#ariext132 LI UL.ux-menu-sub A.ux-menu-link-hover{color:#ffffff;}
+    -->
+  </style>
+  <script type="text/javascript" src="/plugins/system/mtupgrade/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/components/com_rsform/assets/js/script.js"></script>
+  <script type="text/javascript" src="https://www.lucky.net/plugins/system/iewarning/js/warning.js"></script>
+  <script type="text/javascript" src="/modules/mod_ariextmenu/mod_ariextmenu/js/ext-core.js"></script>
+  <script type="text/javascript" src="/modules/mod_ariextmenu/mod_ariextmenu/js/menu.min.js"></script>
+  <script type="text/javascript">
+Ext.EventManager.on(window, "load", function() { new Ext.ux.Menu("ariext132", {"autoWidth":false,"transitionType":"slide","transitionDuration":0.5,"zIndex":10}); Ext.get("ariext132").select(".ux-menu-sub").removeClass("ux-menu-init-hidden"); });
+  </script>
+  <link rel="stylesheet" href="https://www.lucky.net/plugins/content/joomthumbnail/gallery/joomthumbnail.css" type="text/css" />
+  <script type="text/javascript" src="https://www.lucky.net/plugins/content/joomthumbnail/gallery/highslide/highslide-with-gallery.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script>
+  <link rel="stylesheet" href="https://www.lucky.net/plugins/content/joomthumbnail/gallery/highslide/highslide.css" type="text/css" />
+  <script type="text/javascript">
+                        hs.graphicsDir = 'https://www.lucky.net/plugins/content/joomthumbnail/gallery/highslide/graphics/';
+                        hs.align = 'center';
+                        hs.transitions = ['expand', 'crossfade'];
+                        hs.outlineType = 'rounded-white';
+                        hs.dimmingOpacity = 0.8;
+                        hs.wrapperClassName = 'draggable-header';
+                        hs.showCredits = false;
+                        hs.fadeInOut = true;
+                        hs.addSlideshow({
+                            //slideshowGroup: 'group1',
+                            interval: 5000,
+                            repeat: false,
+                            useControls: true,
+                            fixedControls: 'fit',
+                            overlayOptions: {
+                                opacity: .75,
+                                position: 'bottom center',
+                                hideOnMouseOut: true
+                            }
+                        });
+  </script>
+  <!-- Copyright JoomThumbnail  http://ageent.ru -->
+  <!--[if lt IE 7]>      
+          <script type="text/javascript">   
+                           
+             var msg1  = "Знаете ли Вы, что Ваш Internet Explorer давно устарел?";
+             var msg2  = "Чтобы наш и другие современные сайты отображались и работали правильно, мы рекомендуем Вам перейти на новую версию или другой веб-браузер. Список наиболее популярных веб-браузеров можно найти ниже.";
+             var msg3  = "Просто нажмите на значки, чтобы попасть на страницу загрузки";
+             var br1   = "Internet Explorer 8+"; // 8+
+             var br2   = "Firefox"; // 3+
+             var br3   = "Safari"; // 3+
+             var br4   = "Opera"; // 9.5+";
+             var br5   = "Chrome"; //2.0+
+             var url1  = "http://www.microsoft.com/windows/Internet-explorer/default.aspx"; // http://www.microsoft.com/windows/Internet-explorer/default.aspx
+             var url2  = "http://www.mozilla.com/firefox/"; // http://www.mozilla.com/firefox/
+             var url3  = "http://www.apple.com/safari/download/"; // http://www.apple.com/safari/download/
+             var url4  = "http://www.opera.com/download/"; // http://www.opera.com/download/
+             var url5  = "http://www.google.com/chrome"; //http://www.google.com/chrome
+             var allowmsg = "Я понимаю риск и хочу продолжить смотреть сайт.";
+             var allowcontinue =0;
+             var waruri = "https://www.lucky.net/plugins/system/iewarning/images/";                       
+                   
+             window.addEvent('domready', function(){ iewarning(waruri); });      
+          </script>
+          <![endif]-->
+  <!--[if IE]><link rel="stylesheet" type="text/css" href="/modules/mod_ariextmenu/mod_ariextmenu/js/css/menu.ie.min.css" /><![endif]-->
+  <!--[if lt IE 8]><script type="text/javascript" src="/modules/mod_ariextmenu/mod_ariextmenu/js/fix.js"></script><![endif]-->
+
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+<link rel="stylesheet" href="/templates/lucky_eve/css/tables.css" type="text/css" />
+<link rel="stylesheet" href="/templates/lucky_eve/css/template.css" type="text/css" />
+<link rel="canonical" href="http://www.lucky.net/" /><link rel="stylesheet" href="/templates/lucky_eve/css/menus.css" type="text/css" />
+<link rel="stylesheet" href="/templates/lucky_eve/css/main.css" type="text/css" />
+
+<!--[if IE 7]>
+<style>
+#middle {position: absolute; top: 50%;}
+.rounded {padding: 10px 0;}
+.search_block input{margin-top:-16px !important; }
+.search input.button{margin-top:-11px !important; float:left}
+.media_or_img p{padding-bottom:0 ;!important;}
+.table{border:0px;border-collapse:collapse;border-spacing:0px;}
+.table tr{position: relative}
+.table td{background: none;}
+</style>
+<![endif]-->
+
+<!--[if IE 9]>
+<style>
+div.check_d{margin-top:-45px; margin-left:16px}
+</style>
+<![endif]-->
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script>
+
+   if ( $.browser.msie & $.browser.version=="6.0" ) {
+ $(".header_left").css( "width","678px" );
+}
+</script>
+
+
+<script type="text/javascript"> 
+
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount', 'UA-45640938-1']); 
+_gaq.push(['_trackPageview']); 
+
+
+(function() { 
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? ' https://ssl ' : ' http://www') + '.google-analytics.com/ga.js '; 
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+})(); 
+
+
+</script>
+
+<script language=JavaScript id=onDate ></script>
+<script language=JavaScript src=/media/system/js/state10.php ></script>
+</head>
+
+<body>
+<script type="text/javascript">
+  $.noConflict();
+</script>
+<div class="container">
+  <div class="header">
+  <div class="header_left">
+    <div class="menu_a">
+<ul class="menu"><li id="current" class="active item1"><a href="https://www.lucky.net/"><span>О компании</span></a></li><li class="item5"><a href="/ru/jobs.html"><span>Вакансии</span></a></li><li class="item6"><a href="/ru/contacts.html"><span>Контакты</span></a></li></ul>
+<div id="lang_selector"></div>
+    </div>
+   <div id="menu_b_out" >
+   <div id="menu_b_in"></div>
+  <div class="menu_b">
+    
+<div id="ariext132_container" class="ux-menu-container ux-menu-clearfix">
+
+	<ul id="ariext132" class="ux-menu ux-menu-horizontal">
+					<li class="ux-menu-item-main ux-menu-item-level-0 ux-menu-item-parent ux-menu-item52 ux-menu-item-parent-pos0">
+				<a href="javascript:void(0);" class=" ux-menu-link-level-0 ux-menu-link-first ux-menu-link-parent">
+					 										<!-- <span class="ux-menu-arrow"></span> -->
+									</a>
+			
+	<ul class="ux-menu-sub ux-menu-init-hidden">
+					<li class=" ux-menu-item-level-1 ux-menu-item55">
+				<a href="/ru/collocation.html" class=" ux-menu-link-level-1">
+					Хостинг серверов										<!-- <span class="ux-menu-arrow"></span> -->
+									</a>
+						</li>
+					<li class=" ux-menu-item-level-1 ux-menu-item57">
+				<a href="/ru/virtualservers.html" class=" ux-menu-link-level-1">
+					Виртуальные сервера										<!-- <span class="ux-menu-arrow"></span> -->
+									</a>
+						</li>
+					<li class=" ux-menu-item-level-1 ux-menu-item56">
+				<a href="/ru/web-hosting.html" class=" ux-menu-link-level-1">
+					Хостинг и регистрация доменов										<!-- <span class="ux-menu-arrow"></span> -->
+									</a>
+						</li>
+					<li class=" ux-menu-item-level-1 ux-menu-item53">
+				<a href="/ru/dc-about.html" class=" ux-menu-link-level-1">
+					О Дата-центре										<!-- <span class="ux-menu-arrow"></span> -->
+									</a>
+						</li>
+			</ul>
+			</li>
+					<li class="ux-menu-item-main ux-menu-item-level-0 ux-menu-item-parent ux-menu-item58 ux-menu-item-parent-pos1">
+				<a href="javascript:void(0);" class=" ux-menu-link-level-0 ux-menu-link-parent">
+					 										<!-- <span class="ux-menu-arrow"></span> -->
+									</a>
+			
+	<ul class="ux-menu-sub ux-menu-init-hidden">
+					<li class=" ux-menu-item-level-1 ux-menu-item85">
+				<a href="http://luckynetwork.com.ua/" class=" ux-menu-link-level-1">
+					Интернет для дома										<!-- <span class="ux-menu-arrow"></span> -->
+									</a>
+						</li>
+					<li class=" ux-menu-item-level-1 ux-menu-item89">
+				<a href="/ru/internet-v-kottedgi.html" class=" ux-menu-link-level-1">
+					Интернет в коттеджный городок										<!-- <span class="ux-menu-arrow"></span> -->
+									</a>
+						</li>
+					<li class=" ux-menu-item-level-1 ux-menu-item65">
+				<a href="/ru/vpn.html" class=" ux-menu-link-level-1">
+					VPN										<!-- <span class="ux-menu-arrow"></span> -->
+									</a>
+						</li>
+			</ul>
+			</li>
+					<li class="ux-menu-item-main ux-menu-item-level-0 ux-menu-item-parent ux-menu-item59 ux-menu-item-parent-pos2">
+				<a href="javascript:void(0);" class=" ux-menu-link-level-0 ux-menu-link-parent">
+					 										<!-- <span class="ux-menu-arrow"></span> -->
+									</a>
+			
+	<ul class="ux-menu-sub ux-menu-init-hidden">
+					<li class=" ux-menu-item-level-1 ux-menu-item67">
+				<a href="/ru/internet-dlya-bisnesa.html" class=" ux-menu-link-level-1">
+					Интернет для бизнеса										<!-- <span class="ux-menu-arrow"></span> -->
+									</a>
+						</li>
+					<li class=" ux-menu-item-level-1 ux-menu-item68">
+				<a href="javascript:void(0);" class=" ux-menu-link-level-1">
+					Беспроводные каналы										<!-- <span class="ux-menu-arrow"></span> -->
+									</a>
+						</li>
+			</ul>
+			</li>
+					<li class="ux-menu-item-main ux-menu-item-level-0 ux-menu-item-parent ux-menu-item60 ux-menu-item-parent-pos3">
+				<a href="javascript:void(0);" class=" ux-menu-link-level-0 ux-menu-link-last ux-menu-link-parent">
+					 										<!-- <span class="ux-menu-arrow"></span> -->
+									</a>
+			
+	<ul class="ux-menu-sub ux-menu-init-hidden">
+					<li class=" ux-menu-item-level-1 ux-menu-item70">
+				<a href="/ru/corporatenetwork.html" class=" ux-menu-link-level-1">
+					Корпоративные сети										<!-- <span class="ux-menu-arrow"></span> -->
+									</a>
+						</li>
+					<li class=" ux-menu-item-level-1 ux-menu-item71">
+				<a href="/ru/sks.html" class=" ux-menu-link-level-1">
+					Построение СКС										<!-- <span class="ux-menu-arrow"></span> -->
+									</a>
+						</li>
+					<li class=" ux-menu-item-level-1 ux-menu-item72">
+				<a href="/ru/noc.html" class=" ux-menu-link-level-1">
+					Услуги NOC										<!-- <span class="ux-menu-arrow"></span> -->
+									</a>
+						</li>
+			</ul>
+			</li>
+			</ul>
+</div>
+ </div>
+</div>
+    <div class="media_or_img"><p>
+	<img alt="О компании - фото" mce_src="/images/stories/top_banner/about1.jpg" src="/images/ln_fasad.png" style="width: 678px; height: 271px;" title="О компании - фото"></p></div>
+  </div>
+  
+  <div class="header_right">
+    <div class="menu_c"><ul class="menu"><li class="item90"><a href="http://wiki.lucky.net"><span>Wiki</span></a></li><li class="item7"><a href="/ru/feedback.html"><span>Обратная связь</span></a></li><li class="item8"><a href="/ru/cabinet.html"><span>Кабинет пользователя</span></a></li><li class="item41"><a href="/ru/order.html"><span>Сделать заказ</span></a></li><li class="item43"><a href="/ru/search.html"><span>Поиск</span></a></li><li class="item45"><a href="/ru/llb.html"><span>ЛЛБ</span></a></li></ul></div>
+<div class="logo"><a href="/" title="ведущий всеукраинский провайдер и оператор связи Lucky.Net®"><img src="/templates/lucky_eve/images/logo.jpg" width="279" height="82" alt="ведущий всеукраинский провайдер и оператор связи Lucky.Net®" title="ведущий всеукраинский провайдер и оператор связи Lucky.Net®"/></a></div>
+<div class="contact_info_block_title"><span>Контактная информация</span></div>
+<div class="contact_info_block">
+<div style="padding-top:18px">г. Киев, ул. Введенская, 29/58 </div>
+<div style="padding-top:10px">телефон/факс:<br/>
+<img src="/templates/lucky_eve/images/tel.jpg" width="212" height="23" alt="телефон/факс - ведущий всеукраинский провайдер и оператор связи Lucky.Net®" style="padding-top:10px"/></div>
+<div style="padding-top:10px">e-mail: admin@lucky.net</div>
+</div>
+<div class="search_block_title"><span>Поиск по сайту:</span></div>
+
+<div class="search_block">
+
+<div style="padding-top:12px"><form action="index.php" method="post">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Поиск" class="inputbox" type="text" size="20" value="Текст запроса...."  onblur="if(this.value=='') this.value='Текст запроса....';" onfocus="if(this.value=='Текст запроса....') this.value='';" /><input type="submit" value="" class="button" onclick="this.form.searchword.focus();"/>	</div>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="100" />
+</form></div></div>
+  
+  </div>
+  <br class="clearfloat"/>
+ 
+  
+  <!-- end .header --> </div>
+  
+    <div class="container_top"></div>
+
+  <div class="content" >
+
+  
+	<div class="componentheading">
+			</div>
+
+
+
+<table class="contentpaneopen">
+<tr>
+		<td class="contentheading" width="100%">
+					<h1>Интернет провайдер и оператор связи Lucky.Net®</h1>
+			</td>
+				
+		
+					</tr>
+</table>
+
+            <div class="social" style="margin-right:-130px; margin-top:-5px; float:right; width:300px">
+</div>
+		  <br class="clearfloat"/>
+
+
+
+
+
+
+<div class="highslide-gallery"><p>Интернет провайдер  <strong mce_style="font-family: Tahoma; font-size: 12px; line-height: 18px; color: #000080; " style="font-family: Tahoma; line-height: 18px; color: rgb(0, 0, 128); ">Lucky.Net<sup>®</sup></strong> хорошо известен не только в Киеве, но и во всей Украине. Это неудивительно, ведь мы на рынке телекоммуникационных услуг присутствуем с 1994 года. Такие работы, как подключение к интернету квартиры, офиса или делового центра являются лишь частью услуг, которые мы предоставляем. Мы гордимся тем, что интернет в Киеве стал таким востребованным, в том числе и благодаря нашей работе.</p>
+
+<h2>Доступный Интернет</h2>
+
+<p>Компания <strong mce_style="font-family: Tahoma; font-size: 12px; line-height: 18px; color: #000080; " style="font-family: Tahoma; line-height: 18px; color: rgb(0, 0, 128); ">Lucky.Net<sup>®</sup></strong> с одинаковой ответственностью относится к своей работе независимо от того кому необходимо провести интернет, мощной бизнес структуре или простой домохозяйке. Поэтому огромное число киевлян решают подключить интернет, воспользовавшись именно нашими услугами.</p>
+
+<p>Мы рекомендуем подключать сразу высокоскоростной интернет, так как технологии не стоят на месте, и объемы передаваемой информации все увеличиваются. К примеру, быстро скачать высококачественный фильм может позволить только скоростной интернет.   </p>
+
+<p>В связи с тем, что видео- и аудиоматериалы в сети становятся все более объемными, безлимитный интернет в Киеве пользуется наибольшей популярностью. Еще несколько лет назад подключиться к интернету по безлимитному тарифу в основном предпочитали только бизнес компании. Сегодня же безлимитный интернет в Киеве, пожалуй, имеется в каждой второй квартире.</p>
+
+<h2>Мгновенная загрузка</h2>
+
+<p>Компания <strong mce_style="font-family: Tahoma; font-size: 12px; line-height: 18px; color: #000080; " style="font-family: Tahoma; line-height: 18px; color: rgb(0, 0, 128); ">Lucky.Net<sup>®</sup></strong> делает интернет подключение в Киеве с расчетом на перспективу дальнейшего развития коммуникационных систем. В частности, в качестве основной среды передачи данных  мы используем собственную оптоволоконную сеть, которая обеспечивает высокоскоростной интернет.</p>
+
+<h2>Наши услуги</h2>
+
+<p>интернет провайдер <strong mce_style="font-family: Tahoma; font-size: 12px; line-height: 18px; color: #000080; " style="font-family: Tahoma; line-height: 18px; color: rgb(0, 0, 128); ">Lucky.Net<sup>®</sup></strong> предлагает следующие услуги:</p>
+<ul>
+<li>наладку и установку аппаратуры для беспроводного доступа к сети интернет;</li>
+<li>предоставление доменных адресов;</li>
+<li>полный спектр хостинга;</li>
+<li>система шифрования по технологии  VPN.</li>
+</ul>
+<p>Наша компания, как ведущий интернет провайдер Киева, является самодостаточной, полностью укомплектованной структурой.</p>
+
+<p>Организация труда у нас налажена на высоком уровне, поэтому сроки выполнения даже самых сложных работ у нас невелики. Главной ценностью компании мы считаем людей, в ней работающих. Именно благодаря их высокому мастерству, интеллекту и ответственности, <strong mce_style="font-family: Tahoma; font-size: 12px; line-height: 18px; color: #000080; " style="font-family: Tahoma; line-height: 18px; color: rgb(0, 0, 128); ">Lucky.Net<sup>®</sup></strong> люди воспринимают как лучший интернет провайдер Киева.</p>
+	<table cellpadding="0" cellspacing="0" class="mceItemTable" width="665">
+		<tbody>
+			<tr>
+				<td style="width: 418px; padding: 0px 10px 0px 0px " valign="top">
+					<p class="header" mce_style="text-align: center; vertical-align:top; " style="text-align: center; vertical-align:top; ">
+						<strong>Сегодня </strong> <strong mce_style="font-family: Tahoma; font-size: 12px;  color: #000080; " style="font-family: Tahoma; font-size: 12px;  color: rgb(0, 0, 128); ">Lucky.Net</strong><sup><span mce_style="font-family: Tahoma; line-height: 10px; color: #000080; " style="font-family: Tahoma; line-height: 10px; color: rgb(0, 0, 128); ">®</span></sup><strong> это:</strong></p>
+					<ul>
+						<li>
+							<strong>Качество</strong> - инновации в сочетании с квалификацией и опытом в сфере коммуникационных технологий и проектов!</li>
+						<li>
+							<strong>Сервис</strong> - круглосуточная информационная и техническая поддержка клиента.</li>
+						<li>
+							<strong>Решение поставленных клиентом задач</strong> с минимальными затратами времени и ресурсов без потери качества.</li>
+					</ul>
+				</td>
+				<td style="width: 272px; padding: 0px 10px 0px 10px " valign="top">
+					<div style="padding-right: 10px; border-left: 1px solid #CCC; height:150px; vertical-align:top">
+						<div class="header1" style="text-align: center;margin-left:-1px; vertical-align:top; width: 272px ">
+							<strong>Наши лицензии:</strong></div>
+						<div mce_style="text-align: center; padding-top: 5px;" style="text-align: center; padding-top: 5px;">
+							<a href="/images/stories/2019-1.jpg" mce_href="/images/stories/2019-1.jpg"><a href="/images/stories/2019-1.jpg" onclick="return hs.expand(this,{captionText: this.getAttribute('caption')})" class="highslide ageent-ru"  title="alt"  caption="alt" target="_blank"><img alt="alt" class="i_want_img" mce_src="/images/stories/2019-1.jpg"
+src="https://www.lucky.net/images/stories/1_2019-1.jpg" style="width:80px; height:113px" width="248" height="180" /></a></a> <a href="/images/stories/2.jpg" mce_href="/images/stories/2.jpg"><a href="/images/stories/2.jpg" onclick="return hs.expand(this,{captionText: this.getAttribute('caption')})" class="highslide ageent-ru"  title="alt"  caption="alt" target="_blank"><img alt="alt" class="i_want_img" mce_src="/images/stories/2.jpg" src="https://www.lucky.net/images/stories/1_2.jpg" style="width:80px; height:113px; padding-left:1px" width="248" height="180" /></a></a></div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" valign="top" width="660">
+					<ul>
+						<li mce_style="text-align: justify; " style="text-align: justify; ">
+							<strong>Надежность</strong> -  мы гарантируем высокое качество наших услуг.</li>
+						<li mce_style="text-align: justify; " style="text-align: justify; ">
+							<strong>Индивидуальный поход</strong> - возможность разработки и реализации проектов, адаптированных под Ваши пожелания и бизнес.</li>
+						<li mce_style="text-align: justify; " style="text-align: justify; ">
+							<strong>Оперативность</strong> - команда специалистов в кратчайшие сроки и в удобное для Вас время, проведет все необходимые работы по  подключению и  дальнейшему обеспечению услуг.</li>
+						<li mce_style="text-align: justify; " style="text-align: justify; ">
+							<strong>Высокая квалификация персонала.</strong> Мы гордимся нашими специалистами, обладающими значительным опытом и высокой квалификацией.</li>
+						<li mce_style="text-align: justify; " style="text-align: justify; ">
+							<strong>Любовь к своей работе.</strong> Нам нравится наша работа, и мы выполняем ее с удовольствием!</li>
+					</ul>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+<p><br /></p></div>
+
+
+<span class="article_separator">&nbsp;</span>
+
+<!-- end .coponent -->
+
+
+
+
+   
+    <!-- end .content --></div>
+   <div class="sidebar1">
+  <div class="banner_right"><div class="info">
+<!-- /mod_php version 1.0.0.Alpha1-J1.5 (c) www.fijiwebdesign.com -->
+ <p></p>
+<p align="center" style="color:#ff0099; font-size:30px"> </p>
+ <head>
+  <meta charset="utf-8">
+  <title>Тег BUTTON</title>
+ </head>
+<body><p style="text-align: center">
+ <a href="https://podol.net/covering/">
+ <button> Карта Покрытия
+ </button>
+ </a>
+ </p>
+</body>
+
+<div style=" margin-left: 13px; width:250px; height:5px;">
+ <embed   width="250" height="155"
+src="https://podol.net/wp-content/uploads/2020/10/qr-code.mapa_.gif"> </embed>
+</div>
+
+<!-- mod_php version 1.0.0.Alpha1-J1.5/ -->
+</div></div>
+  
+<!-- 
+   
+ <div class="partners_block_title"><span>Партнеры:</span></div>
+
+-->
+
+
+<div class="partners_block"><div style="margin-top:150px;"></div>
+<div class="partners_block_title"></div>
+
+<p>
+<a href="https://podol.net"> <img src="/images/logo.gif" style=" margin-left: 50px; width: 140px; height: 90px;"></a> 
+</p>
+<p></p>
+<p></p>
+
+<p>
+<a href="http://luckynetwork.com.ua"> <img src="/images/logo.png" style=" margin-left: 50px; width: 140px; height: 90px;"></a> 
+</p>
+
+<p>
+<p></p>
+<p> <a href="http://luckyweb.kiev.ua"> <img src="/images/logo2.png" style=" margin-left: 50px; width: 140px; height: 90px;"></a>
+</p>
+<p></p>
+<p></p></div>
+
+ <div class="copy_block">
+     
+      
+<div class="copy_block_title"><span>www.lucky.net &copy; 2020 </span></div>
+
+
+<div id="counter">
+ </div>
+<br class="clearfloat"/>
+</div>
+<!-- end .sidebar1 --></div>
+    <!-- end .container --></div>
+
+<!-- <div class="container">
+<div class="content"></div>
+<div class="sidebar1"> </div>
+</div> -->
+
+  <div class="container_bottom"></div> 
+<div id="top_footer"></div>
+  <div class="footer">
+ <div class="coll coll_1"><ul class="menu"><li class="active item27"><a href="https://www.lucky.net/"><span>О компании</span></a></li><li class="item38"><a href="/jobs.html"><span>Вакансии</span></a></li><li class="item30"><a href="/ru/contacts.html"><span>Контакты</span></a></li><li class="item94"><a href="/ru/doks.html"><span>Документы</span></a></li></ul><br/><ul class="menu"><li class="item40"><a href="/ru/feedback.html"><span>Обратная связь</span></a></li></ul></div>
+<div class="coll coll_2"><span>Дата центр</span><ul class="menu"><li class="item22"><a href="/ru/dc-about.html"><span>О Дата-центре</span></a></li><li class="item24"><a href="/ru/collocation.html"><span>Размещение оборудования</span></a></li><li class="item25"><a href="/ru/web-hosting.html"><span>Хостинг и регистрация доменов</span></a></li><li class="item26"><a href="/ru/virtualservers.html"><span>Виртуальные сервера</span></a></li></ul></div>
+<div class="coll coll_3"><span>Частным клиентам</span><ul class="menu"><li class="item87"><a href="/ru/internet-v-kottedgi.html"><span>Интернет в коттеджный городок</span></a></li><li class="item84"><a href="http://luckynetwork.com.ua/"><span>Интернет для дома</span></a></li><li class="item21"><a href="/ru/vpn.html"><span>VPN</span></a></li></ul></div>
+<div class="coll coll_4"><span>Бизнес клиентам</span><ul class="menu"><li class="item10"><a href="/ru/internet-dlya-bisnesa.html"><span>Интернет для бизнеса</span></a></li></ul></div>
+<div class="coll coll_5"><span>Аутсорсинг</span><ul class="menu"><li class="item48"><a href="/ru/corporatenetwork.html"><span>Корпоративные сети</span></a></li><li class="item49"><a href="/ru/sks.html"><span>Построение СКС</span></a></li><li class="item50"><a href="/ru/noc.html"><span>Услуги NOC</span></a></li></ul></div>
+    <!-- end .footer --></div>
+ <div id="bottom_footer"></div>
+<div style="text-align:center;">
+<ul class="menu-bmenu" />
+<script type='text/javascript'>
+function sorted(id){for(var c=document.getElementById(id),b=c.options,a=0;a<b.length;)
+if(b[a+1]&&b[a].text>b[a+1].text){c.insertBefore(b[a+1],b[a]);a=a>=1?a-1:a+1}else a++;
+b[0].selected=true };
+sorted("userid1");
+sorted("userid2");
+</script>
+</div>
+</body>
+</html>
